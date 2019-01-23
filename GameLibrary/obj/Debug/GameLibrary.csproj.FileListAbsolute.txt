@@ -1,0 +1,6 @@
+C:\Users\jrem9\Desktop\Game\GameLibrary\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\jrem9\Desktop\Game\GameLibrary\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\jrem9\Desktop\Game\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\jrem9\Desktop\Game\GameLibrary\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jrem9\Desktop\Game\GameLibrary\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\jrem9\Desktop\Game\GameLibrary\GameLibrary\obj\Debug\GameLibrary.pdb
